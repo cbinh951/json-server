@@ -16,7 +16,6 @@
   "profile": {
     "name": "typicode"
   },
-  {
   "urban": [
     {
       "name": "edit",
@@ -47,5 +46,4 @@
       "id": 5
     }
   ]
-}
 }
