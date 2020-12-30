@@ -15,5 +15,37 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  {
+  "urban": [
+    {
+      "name": "edit",
+      "description": "city bank 1",
+      "address": "ftown 3, quan 9",
+      "status": false,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "time city",
+      "description": "city bank",
+      "address": "ftown 3, quan 9",
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "vinmark",
+      "description": "vinmark",
+      "address": "quan 1",
+      "status": true
+    },
+    {
+      "name": "hcm",
+      "description": "hcm, q1",
+      "address": "quan 1",
+      "status": true,
+      "id": 5
+    }
+  ]
+}
 }
